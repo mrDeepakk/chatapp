@@ -9,11 +9,8 @@ A sleek real-time chat application built using **React.js + Vite + TailwindCSS**
 
 ## 📸 UI Screenshots
 
-![](https://i.ibb.co/xt0Wdpd/enter-name.png)
-
-![](https://i.ibb.co/ZRrZKV8/sent-message.png)
-
-![](https://i.ibb.co/k2wmGRv/received-message.png)
+![Demo app](https://i.ibb.co/tpvLH7FB/image.png)
+![Demo](https://i.ibb.co/KpkdSMSX/image.png)
 
 ---
 
@@ -42,3 +39,53 @@ A sleek real-time chat application built using **React.js + Vite + TailwindCSS**
 - 📱 Responsive and clean chat interface
 
 ---
+
+## 🚀 Local Development
+
+To run this project locally, follow the steps below:
+
+### 📦 Clone the Repository
+
+```bash
+git clone https://github.com/mrDeepakk/chatapp.git
+cd chatapp
+```
+
+## 🔧 Setup Backend
+
+Navigate to the `server` directory
+
+```bash
+cd server
+```
+### Install dependencies
+
+```shell
+npm install
+```
+
+### Start the app
+
+```shell
+npm start
+```
+
+## 💻 Setup Frontend
+Open a new terminal and navigate to the `client` directory
+```shell
+cd ../client
+```
+## Install frontend dependencies
+
+```bash
+npm install
+```
+## Start the Vite development server
+
+```bash
+npm run dev
+```
+### View at 
+[http://localhost:5173/](http://localhost:5173/)
+
+
