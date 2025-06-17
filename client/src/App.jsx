@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import io from "socket.io-client";
 
+// Replace with your server URL example: "http://localhost:5000"
 const socket = io("https://chatapp-1-ukq3.onrender.com/");
 
 function App() {
